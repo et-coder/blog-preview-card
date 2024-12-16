@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/blog-preview-card-ZWDAuj96h)
+- Live Site URL: [Just click](https://et-coder.github.io/blog-preview-card/)
 
 ## My process
 
@@ -30,7 +30,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - CSS custom properties
 - Mobile-first workflow
 
-## Author
 
 ## Author
 
